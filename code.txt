@@ -3,3 +3,5 @@ Testing Git bash.
 Commited version 1.
 Updated the file.
 
+Something is added.
+Just for practice.
